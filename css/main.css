@@ -1,3 +1,20 @@
+html { 
+  background: url(http://upload.wikimedia.org/wikipedia/commons/a/a1/Namibie_Etosha_Leopard_01edit.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+section.header {
+    margin: auto;
+}
+
+
+
+
+
+
 /*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
 
 /*
