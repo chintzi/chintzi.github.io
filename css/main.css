@@ -4,12 +4,19 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  text-align: center;
+
 }
 
-section.header {
-    margin: auto;
+section > h1 {
+    padding-top: 25%;
+    
+    color: white;
 }
 
+section > h2 {
+
+}
 
 
 
@@ -32,11 +39,11 @@ button,
 input,
 select,
 textarea {
-    color: #222;
+    color: white;
 }
 
 html {
-    font-size: 1em;
+    font-size: 2em;
     line-height: 1.4;
 }
 
